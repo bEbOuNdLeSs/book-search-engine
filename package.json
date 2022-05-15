@@ -12,6 +12,12 @@
   },
   "author": "",
   "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "if-env": "^1.0.4"
+  },
   "bugs": {
     "url": "https://github.com/bEbOuNdLeSs/book-search-engine/issues"
   },
