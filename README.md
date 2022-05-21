@@ -22,7 +22,7 @@ Once the dependencies are installed, the app is ready to be used.
 - Node.js (Express, mongoose, graphql, jsonwebtoken, apollo/client, apollo-server-express)
 
 ## Deployed 
-[] ()
+[Deployed Here](https://dashboard.heroku.com/apps/google-bookstore-yes)
 
 ## Questions
 If there are any questions please reach out to me on github @ [Github](https://github.com/bEbOuNdLeSs)
