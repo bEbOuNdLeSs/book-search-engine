@@ -22,7 +22,8 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "concurrently": "^5.1.0"
   },
   "bugs": {
     "url": "https://github.com/bEbOuNdLeSs/book-search-engine/issues"
